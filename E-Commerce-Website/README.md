@@ -89,4 +89,11 @@ node seed.js
 
 ### Project Preview
 
+![Preview 1](./src/data/preview1.png)
+![Preview 1](./src/data/preview2.png)
+![Preview 1](./src/data/preview3.png)
+![Preview 1](./src/data/preview4.png)
+![Preview 1](./src/data/preview5.png)
+![Preview 1](./src/data/preview6.png)
+![Preview 1](./src/data/preview7.png)
 Feel free to customize and extend this project! 
