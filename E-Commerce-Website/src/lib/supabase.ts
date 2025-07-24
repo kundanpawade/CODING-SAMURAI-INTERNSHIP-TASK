@@ -1,0 +1,1 @@
+// Supabase integration removed. Using MongoDB via backend API instead.
