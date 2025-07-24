@@ -16,6 +16,6 @@ This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 
 ## 📽️ Project Preview
 
-![Preview 1](./Personal-Portfolio-website/files/Preview%201.png)
-![Preview 1](./Personal-Portfolio-website/files/Preview%202.png)
-![Preview 1](./Personal-Portfolio-website/files/Preview%203.png)
+![Preview](./Personal-Portfolio-website/files/Preview%201.png)
+![Preview](./Personal-Portfolio-website/files/Preview%202.png)
+![Preview](./Personal-Portfolio-website/files/Preview%203.png)
